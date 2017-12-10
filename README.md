@@ -1,1 +1,0 @@
-# bpnaylor.github.io
