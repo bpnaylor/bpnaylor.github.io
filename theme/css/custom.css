@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Bombadier';
+    src: url('https://github.com/bpnaylor/bpnaylor.github.io-src/blob/css-test/theme/static/fonts/BOMBARD_.ttf?raw=true');
+}
+
+ html {
+    font-family: 'Bombadier';
+  }
+
+[title] {
+	font-family: 'Bombadier';
+}
+
+ h1 {
+   font-family: 'Bombadier';
+ }
+
+ h2 {
+ 	font-family: 'Bombadier';
+ }
+
+ h3 {
+ 	font-family: 'Bombadier';
+ }

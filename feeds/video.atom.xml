@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Charlottesville Oral Histories - video</title><link href="/" rel="alternate"></link><link href="/feeds/video.atom.xml" rel="self"></link><id>/</id><updated>2007-05-01T00:00:00+02:00</updated><entry><title>Rick Astley's Never Gonna Let You Go</title><link href="/nevergonnaletyougo.html" rel="alternate"></link><published>2007-05-01T00:00:00+02:00</published><updated>2007-05-01T00:00:00+02:00</updated><author><name>B Naylor</name></author><id>tag:None,2007-05-01:/nevergonnaletyougo.html</id><summary type="html">&lt;p&gt;&lt;span class="videobox"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Charlottesville Oral Histories - video</title><link href="/" rel="alternate"></link><link href="/feeds/video.atom.xml" rel="self"></link><id>/</id><updated>2017-08-14T00:00:00+02:00</updated><entry><title>VICE News' Charlottesville: Race and Terror</title><link href="/vice.html" rel="alternate"></link><published>2017-08-14T00:00:00+02:00</published><updated>2017-08-14T00:00:00+02:00</updated><author><name>B Naylor</name></author><id>tag:None,2017-08-14:/vice.html</id><summary type="html">&lt;p&gt;Infamous VICE coverage of the Unite the Right rally.&lt;/p&gt;
+&lt;p&gt;&lt;span class="videobox"&gt;
+                &lt;iframe width="640" height="390"
+                    src='https://www.youtube.com/embed/RIrcB1sAN8I'
+                    frameborder='0' webkitAllowFullScreen mozallowfullscreen
+                    allowFullScreen&gt;
+                &lt;/iframe&gt;
+            &lt;/span&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Infamous VICE coverage of the Unite the Right rally.&lt;/p&gt;
+&lt;p&gt;&lt;span class="videobox"&gt;
+                &lt;iframe width="640" height="390"
+                    src='https://www.youtube.com/embed/RIrcB1sAN8I'
+                    frameborder='0' webkitAllowFullScreen mozallowfullscreen
+                    allowFullScreen&gt;
+                &lt;/iframe&gt;
+            &lt;/span&gt;&lt;/p&gt;</content></entry><entry><title>Rick Astley's Never Gonna Give You Up</title><link href="/nevergonnagiveyouup.html" rel="alternate"></link><published>2007-05-01T00:00:00+02:00</published><updated>2007-05-01T00:00:00+02:00</updated><author><name>B Naylor</name></author><id>tag:None,2007-05-01:/nevergonnagiveyouup.html</id><summary type="html">&lt;p&gt;im sorry&lt;/p&gt;
+&lt;p&gt;&lt;span class="videobox"&gt;
                 &lt;iframe width="640" height="390"
                     src='https://www.youtube.com/embed/dQw4w9WgXcQ'
                     frameborder='0' webkitAllowFullScreen mozallowfullscreen
                     allowFullScreen&gt;
                 &lt;/iframe&gt;
-            &lt;/span&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;span class="videobox"&gt;
+            &lt;/span&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;im sorry&lt;/p&gt;
+&lt;p&gt;&lt;span class="videobox"&gt;
                 &lt;iframe width="640" height="390"
                     src='https://www.youtube.com/embed/dQw4w9WgXcQ'
                     frameborder='0' webkitAllowFullScreen mozallowfullscreen
